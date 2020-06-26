@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
-import insta from '../insta.png';
-import github from '../github.png';
+import insta from '../icons/insta.png';
+import github from '../icons/github.png';
 
 
 const Header = () => {
