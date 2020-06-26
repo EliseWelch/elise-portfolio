@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/elise-portfolio/static/css/main.64051354.chunk.css",
-    "main.js": "/elise-portfolio/static/js/main.2b631d32.chunk.js",
-    "main.js.map": "/elise-portfolio/static/js/main.2b631d32.chunk.js.map",
+    "main.css": "/elise-portfolio/static/css/main.52af236c.chunk.css",
+    "main.js": "/elise-portfolio/static/js/main.cfc70102.chunk.js",
+    "main.js.map": "/elise-portfolio/static/js/main.cfc70102.chunk.js.map",
     "runtime-main.js": "/elise-portfolio/static/js/runtime-main.aa978af2.js",
     "runtime-main.js.map": "/elise-portfolio/static/js/runtime-main.aa978af2.js.map",
     "static/js/2.08fb700a.chunk.js": "/elise-portfolio/static/js/2.08fb700a.chunk.js",
     "static/js/2.08fb700a.chunk.js.map": "/elise-portfolio/static/js/2.08fb700a.chunk.js.map",
     "index.html": "/elise-portfolio/index.html",
-    "precache-manifest.507dbe6d92d037f0ce30b31c2e61a84e.js": "/elise-portfolio/precache-manifest.507dbe6d92d037f0ce30b31c2e61a84e.js",
+    "precache-manifest.e7b779532a2a030343ed473fc0000ce8.js": "/elise-portfolio/precache-manifest.e7b779532a2a030343ed473fc0000ce8.js",
     "service-worker.js": "/elise-portfolio/service-worker.js",
-    "static/css/main.64051354.chunk.css.map": "/elise-portfolio/static/css/main.64051354.chunk.css.map",
+    "static/css/main.52af236c.chunk.css.map": "/elise-portfolio/static/css/main.52af236c.chunk.css.map",
     "static/js/2.08fb700a.chunk.js.LICENSE.txt": "/elise-portfolio/static/js/2.08fb700a.chunk.js.LICENSE.txt",
     "static/media/Intro.css": "/elise-portfolio/static/media/elise.628a52eb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa978af2.js",
     "static/js/2.08fb700a.chunk.js",
-    "static/css/main.64051354.chunk.css",
-    "static/js/main.2b631d32.chunk.js"
+    "static/css/main.52af236c.chunk.css",
+    "static/js/main.cfc70102.chunk.js"
   ]
 }
