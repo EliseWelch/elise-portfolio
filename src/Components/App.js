@@ -4,9 +4,16 @@ import Header from '../Containers/Header';
 import Intro from '../Containers/Intro';
 import Languages from '../Containers/Languages';
 import Websites from '../Containers/Websites';
+import websites from '../websites';
 
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      websites: websites
+     };
+  };
 
   render() {
     return (
@@ -14,7 +21,7 @@ class App extends Component {
       	<Header />
       	<Intro />
       	<Languages />
-      	<Websites />
+      	<Websites websites={this.state.websites}/>
       </div>
     )
   }
@@ -22,5 +29,5 @@ class App extends Component {
 };
 
 
-export default App;
+export default App; 
  

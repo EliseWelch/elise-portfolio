@@ -1,0 +1,18 @@
+.websites {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.websites-title {
+	font-size: 2.8rem;
+	color: black;
+	text-align: center;
+	font-family: didot;
+} 

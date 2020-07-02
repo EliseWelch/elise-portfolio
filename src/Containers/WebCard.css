@@ -1,0 +1,91 @@
+.web-card {
+	width: 550px;
+	background-color: rgb(234,233,233);
+	margin: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+.info {
+	text-align: center;
+}
+
+.img-btns {
+	position: relative;
+	margin-left: -10px;
+	display: flex;
+}
+
+.img-btns img {
+	opacity: 1;
+	display: block;
+	width: 100%;
+	min-width: 500px;
+	height: auto;
+	transition: .5s ease;
+	backface-visibility: hidden;
+}
+
+.overlay-btns {
+  width: 100%;
+  margin-left: 6%;
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.overlay-btns button {
+  margin: 5%;
+  height: 10%;
+  min-height: 10%;
+  width: 20%;
+  min-width: 20%;
+  font-family: didot;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  font-size: 18px;
+  padding: 12px 24px;
+  border-radius: 300px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.img-btns:hover img {
+	opacity: 0.5;
+}
+
+.img-btns:hover .overlay-btns {
+  opacity: 1;
+}
+
+.overlay-btns button:focus {
+	border: none;
+	outline: none;
+}
+
+.explore-btn:focus {
+	width: 100px;
+	height: 100px;
+}
+
+.web-card h1 {
+	font-family: didot;
+	font-size: 2rem;
+	color: black;
+}
+
+.web-card h2 {
+	font-family: didot;
+	font-size: 1.5rem;
+	color: black;
+}
+
+
+
